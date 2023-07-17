@@ -1,0 +1,21 @@
+{
+  "name": "snowcrash",
+  "displayName": "Snow Crash",
+  "description": "A dark theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Snow Crash",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snowcrash-color-theme.json"
+      }
+    ]
+  }
+}
