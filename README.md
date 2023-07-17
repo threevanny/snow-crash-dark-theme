@@ -10,7 +10,7 @@ A dark theme for [Visual Studio Code](https://code.visualstudio.com/) inspired b
 1. Open the **Extensions** sidebar in VS Code. `View > Extensions`
 1. Search for `Snow Crash`, choose "Snow Crash Theme" by **Geovanny Reyes**
 1. Click **Install** to install it
-1. Navigate to File > Preferences > Color Theme > **Snow Crash**
+1. Navigate to `File > Preferences > Color Theme > **Snow Crash**`
 
 ## Contributing
 
