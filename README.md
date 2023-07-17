@@ -22,4 +22,4 @@ This theme is released under the [GNU General Public License v2.0](https://githu
 
 ## Author
 
-Designed by **[Geovanny Reyes](https://threevanny.com)**
+Designed by **[Geovanny Reyes](https://wwww.threevanny.com)**
