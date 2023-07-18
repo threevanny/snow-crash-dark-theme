@@ -3,6 +3,10 @@
 # Snow Crash Dark Theme
 
 A dark theme for [Visual Studio Code](https://code.visualstudio.com/) inspired by sci-fi novels.
+
+![icon theme](https://drive.google.com/uc?export=view&id=1AsWuwAqDQwyLXEyNUC5QajusvaAvlm49)
+
+![theme preview](https://drive.google.com/uc?export=view&id=1gcUw5m4TdtUuKj5vkMDBX35N5mROT_AX)
 </div>
 
 ## Installation
