@@ -67,7 +67,7 @@
 
 
 		"tab.activeForeground": "#ecec6ae1",
-		"tab.border": "#333333",
+		"tab.border": "#00000000",
 		"tab.activeBackground": "#000000",
 		"tab.activeBorder": "#ecec6ae1",
 		"tab.activeBorderTop": "#00000000",
@@ -123,6 +123,7 @@
 		"menu.foreground": "#8d8d8d",
 		"menu.background": "#333333",
 		"menu.selectionForeground": "#ecec6ae1",
+		"menu.selectionBackground": "#3f3f3f",
 		"menu.selectionBorder": "#00000000",
 		"menu.separatorBackground": "#000000",
 		"menu.border": "#00000085",
