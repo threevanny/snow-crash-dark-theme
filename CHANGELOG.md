@@ -4,6 +4,11 @@ All notable changes to the "snowcrash" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.1] - 2026-10-05
+
+### Fixed
+- README images (icon and theme preview) now load on the Marketplace; they were hosted on Google Drive and are now bundled in `assets/`.
+
 ## [0.3.0] - 2026-10-02
 
 ### Fixed
