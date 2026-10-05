@@ -4,6 +4,11 @@ All notable changes to the "snowcrash" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.3] - 2026-10-05
+
+### Changed
+- New extension icon (256×256).
+
 ## [0.3.2] - 2026-10-05
 
 ### Added
